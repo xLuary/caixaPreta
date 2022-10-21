@@ -64,8 +64,6 @@ for j = 1:iteracao
     plot(media);
     xlabel('Geração');
     ylabel('Sinal de saída');
-    
-
     histfitness=[];
 
 end
