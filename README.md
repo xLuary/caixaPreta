@@ -1,4 +1,4 @@
-# caixaPreta
+# Caixa Preta
 
 Resolução de problema de otimização caixa preta utilizando Algoritmo Genético
 
